@@ -1,0 +1,6 @@
+CreateMesh Start 6e+002 STD 0.01m 0.0005m
+CreateMesh End 6e+002 
+TransferDataToSolver Start 6e+002 
+TransferDataToSolver End 6e+002 
+ShowFirstPlot Start 6.1e+002 
+ShowFirstPlot End 6.1e+002 

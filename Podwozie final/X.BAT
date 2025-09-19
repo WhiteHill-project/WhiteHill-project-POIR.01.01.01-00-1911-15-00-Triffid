@@ -1,0 +1,9 @@
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
+C:\Users\piotr\Desktop\Tryfid\V5\Rama-Analiza statyczna 1
