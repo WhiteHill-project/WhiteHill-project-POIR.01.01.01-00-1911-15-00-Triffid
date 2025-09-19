@@ -1,0 +1,76 @@
+*****************************************************************
+      SolidWorks Corporation - Raport stanu procesora IGES
+*****************************************************************
+=================================================================
+Informacje ogólne
+=================================================================
+Wysy³anie ID produktu systemowego  : 
+Otrzymywanie ID produktu systemowego  : 
+Nazwa pliku                    : 1057262.iam
+Wysy³anie systemu               : Autodesk Inventor 2016
+Wersja preprocesora         : unknown
+Data utworzenia pliku           : 20160210.150659
+Data utworzenia modelu           : 20130218.142856
+Jednostki                        : MM
+Skala przestrzeni modelu            : 1
+Autor                       : NWilliamson
+Organizacja                 : 
+
+
+=================================================================
+Informacje przetwarzania elementu
+=================================================================
+
+
+=================================================================
+Analiza dok³adnoœci pliku IGES:
+=================================================================
+  Najbardziej rozpowszechniona liczba znacz¹cych cyfr:              14
+  Najwy¿sza liczba znacz¹cych cyfr:                     14
+  Œrednia liczba znacz¹cych cyfr:                10.0477
+  Maksymalna odleg³oœæ od pocz¹tku uk³adu wspó³rzêdnych:                          250.403
+  Minimalna odleg³oœæ od pocz¹tku uk³adu wspó³rzêdnych:                         0.693812
+  Efektywna liczba znacz¹cych cyfr:              13.9976
+
+
+=================================================================
+Podsumowanie elementu
+=================================================================
+-----------------------------------------------------------------
+Wpisz nazwê                                         Liczba konwertowanych
+---- ----                                         ----- ---------
+100  Arc                                             96        96
+110  Line                                           264       264
+116  Point                                           76        76
+120  Surface of revolution                           32        32
+123  Direction                                      152       152
+124  Transformation matrix                           97        97
+126  Rational B-spline curve                          6         6
+128  Rational B-spline surface                        2         2
+186  Manifold Solid B-rep Object                      3         3
+190  Plane surface entity                            58        58
+192  Right circular cylindrical surface              18        18
+308  Subfigure definition                             2         2
+314  Color definition                                 1         1
+406  Property                                         4         4
+408  Singular subfigure instance                      2         2
+502  Vertex list                                      3         3
+504  Edge entity                                      3         3
+508  Loop entity                                    130       130
+510  Face entity                                    110       110
+514  Shell entity                                     3         3
+_________________________________________________________________
+
+
+=================================================================
+Podsumowanie wyników
+=================================================================
+Typ operacji SolidWorks                 Policz
+-----------------------                -----
+Operacje bry³owe                       3
+Operacje powierzchniowe                     0
+Operacje krzywej/szkicu                0
+--------------------------------------------
+Czas rozpoczêcia: pi¹tek, sierpieñ 31, 2018 09:29:55
+Czas zakoñczenia: pi¹tek, sierpieñ 31, 2018 09:29:58
+Czas przetwarzania: 0 days, 00 hours, 00 mins, 03 secs
