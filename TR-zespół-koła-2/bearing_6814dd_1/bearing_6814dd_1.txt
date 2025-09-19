@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"6814DD";"";
+"TraceParts.PartVersion";"1.2.4";"";
+"SUPPLIER";"NSK";"";
+"MASS";"0.134";"kg";
+"TraceParts.PartNumber";"10-08072013-120618";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Single  row deep groove ball bearings - With contact seals - 6814DD";"";
+"TraceParts.InstanceId";"10-08072013-120618DVZM4NQFNS3Z32DF7HMAX89CL";"";
+"TraceParts.PartTitle";"Single  row deep groove ball bearings - With contact seals (DDU)";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"NSK:/F_NSK/NSK.010/NSK.010.010/10-08072013-120618";"";
+"TraceParts.PartStatus";"Published";"";
